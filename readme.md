@@ -1,15 +1,16 @@
 # Jason Draper
 
 ## Work Experience
-### 2012, thoughtbot, inc, Boston, MA
-### Developer Apprentice  2012
-* Work with experienced developers on client projects
-* Work on open source projects including factory_girl, shoulda_matchers and clearance
-* Experienced a number of technologies including backbone JS, cucumber, rspec, HAML, SASS and jQuery
-* Worked in a design and test driven development environment and had all work reviewed by senior employees
-* Interacted with other members of the local ruby and development community
+### thoughtbot, inc, Boston, MA (Feb-May 2012)
+### Ruby on Rails Developer Apprentice
+* Shipped code on client projects with an agile, test-driven team
+* Extensive experience with cucumber, rspec, rails, ruby, SASS, jQuery and Backbone JS
+* Workshops included "Test-Driven Rails", "Design for Developers", "HTML5" and "Intermediate Ruby on Rails"
+* Contributed to open source projects including FactoryGirl, Shoulda Matchers and Clearance authentication gem
+* Reviewed pull requests, merged pull requests, and verified reported issues on open source projects
+* Assisted in teaching "Beginning Ruby on Rails"
 
-### 2009-2012, Virginia Polytechnic Institute and State University
+### Virginia Polytechnic Institute and State University (2009-2012)
 ### Information Technology Specialist
 * Design and implement IT solutions for the department
 * Develop and maintain open source Ruby on Rails applications for use in the department
@@ -20,21 +21,23 @@
 * Mentor student employees and assist in furthering their development and learning
 * Provide support to all users including training & assistance
 
-### 2003-2009, Henry County Public Schools
+### 2003-2009, Henry County Public Schools, Collinsville, VA
 ### Computer Technician
 * Provide hardware and software support for a variety of applications and hardware configurations 
 * Provide network support including wiring, router support and desktop support
 * Assist and train teachers and faculty in implementation and usage of technology
 * Support over 2000 users and more than 600 computers
 
-### 2008, Atrix Medical Systems
+### 2008, Atrix Medical Systems, Roanoke, VA
 ### Software Engineer
 * Develop and implement solutions for communications between Medical Systems in VisualBasic.NET
 * Develop and implement a solution for QA Testing using VisualBasic.NET
 * Work with customers to resolve issues with software in VisualBasic.NET language
 
 ## Education
-### May 2008, Bachelor of Information Science and Technology, Concentration in Web Development
+### Radford University, Radford VA
+### Bachelor of Information Science and Technology
+### Concentration in Web Development (May 2008)
 
 # Projects
 Please see my [projects page] (https://github.com/drapergeek/resume/blob/master/projects.md) for specific projects I've worked on.
