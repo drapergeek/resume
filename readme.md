@@ -54,6 +54,6 @@ Rails application for Intramural Sports Program Management
 * Stores rosters, teams and scores for intramurals games
 * jQuery Mobile and iOS application interface for on-site check-in to games using a barcode reader
 
-## Virginia Cooperative Extension (VCE) Office Web-Based Information System
+## Virginia Cooperative Extension (VCE) Web-Based Information System
 * Rails application with PostgreSQL hosted on Heroku
 * Allows web-based registration of attendees for an annual summer camp
