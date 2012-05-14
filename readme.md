@@ -42,15 +42,17 @@
 ## [Checkin!] (https://github.com/vtrecsports/checkin)
 Rails application for managing access to Recreational Facilities
 ### Features
-* Rails application with MySQL which verifies fitness pass purchases and class attendance
+* Rails application with MySQL which interfaces with a PHP application
+* Verifies fitness pass purchases and class attendance
+* Tracks of towel service and locker rentals
 * jQtouch and iOS application interface for on-site check-in to classes using a barcode reader
-* Tracking of towel service and locker rentals
 * Multi-user authentication and authorization based on roles
 
 ## Versus
 Rails application for Intramural Sports Program Management
 ### Features
-* Rails application with MySQL which tracks participant eligibility to play intramural sports
+* Complex Rails application which serves 7500 students
+* Tracks participant eligibility to play intramural sports
 * Stores rosters, teams and scores for intramurals games
 * jQuery Mobile and iOS application interface for on-site check-in to games using a barcode reader
 
