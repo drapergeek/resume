@@ -1,9 +1,24 @@
 # Projects
 ## [Checkin!] (https://github.com/vtrecsports/checkin)
-Checkin! is a system that was designed and built for internal use at Virginia Tech Recreational Sports. It is built on Ruby on Rails and is released as open source for other institutions to either use or base their own systems on. The primary purpose for Checkin! is to allow us to verify Fitness Pass purchases of our patrons and to check them into their classes. The system allows us to easily keep track of attendance for these classes and ensure that patrons are allow to attend the classes they have paid for. The system uses uses a jQtouch touch interface and a custom written iOS application to check in patrons directly at the class location using an iPod touch with a Linea Pro barcode reader. The system also tracks patrons locker rentals and towel service.
+Checkin! is a system that was designed and built for internal use at Virginia Tech Recreational Sports. 
+### Features
+* Ruby on Rails application with a MySQL storage system
+* Allows verification of Fitness Pass Purchases and attendance to classes
+* jQtouch and iOS application interface for on site check in to classes using a linea pro barcode reader.
+* Tracking of patron towel service and locker rentals.
+* Interfaces directly with a php application that tracks Fitness Pass sales
+* Multi user authentication and authorization based on roles
 
 ## Versus
-Versus is an application that was designed and built for the Intramurals Area at the Virginia Tech Recreational Sports. It is built on Ruby on Rails and is released as open source as well. The system is designed to allow us to track participant eligibility, team rosters and registrations. The application interfaces directly with a custom written iOS application to check participants into games directly at the location where they are playing. The application is still in development with many features being added in the coming month.
+Versus is an application that was designed and built for the Intramurals Area at the Virginia Tech Recreational Sports. 
+### Features
+* Ruby on Rails application with a MySQL storage system
+* Tracks participant eligibility to play intramural sports
+* Tracks rosters, teams and scores for intramurals games.
+* jQueryMoble and iOS application interface for on site check in to games using a linea pro barcode reader.
+* Multi user authentication and authorization based on roles
 
 ## Virginia Cooperative Extension (VCE) Office Web Based Information System
-I designed, built and implemented a web-based system using Ruby on Rails, MySQL and an apache server that allowed the VCE office to create receipts and camper registration forms for their annual 4-H summer camp. The project was originally maintained in a subversion repository but is now maintained in a GIT repository and includes multi-user authentication, administration rights and functions to export to excel. I continue to update and support the system as well as host it on heroku.
+* Ruby on Rails application with a PostgreSQL storage system
+* Hosted on Heroku
+* Allows web based receipting and registration of campers for an annual summer camp
