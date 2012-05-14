@@ -1,6 +1,14 @@
 # Jason Draper
 
 ## Work Experience
+### 2012, thoughtbot, inc, Boston, MA
+### Developer Apprentice  2012
+* Work with experienced developers on client projects
+* Work on open source projects including factory_girl, shoulda_matchers and clearance
+* Experienced a number of technologies including backbone JS, cucumber, rspec, HAML, SASS and jQuery
+* Worked in a design and test driven development environment and had all work reviewed by senior employees
+* Interacted with other members of the local ruby and development community
+
 ### 2009-2012, Virginia Polytechnic Institute and State University
 ### Information Technology Specialist
 * Design and implement IT solutions for the department
