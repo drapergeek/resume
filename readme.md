@@ -28,4 +28,4 @@
 ## Education
 ### May 2008, Bachelor of Information Science and Technology, Concentration in Web Development
 
-Please see my [projects page] (https://github.com/thoughtbot/drapergeek/blob/master/projects.md) for specific projects I've worked on.
+Please see my [projects page] (https://github.com/drapergeek/resume/blob/master/projects.md) for specific projects I've worked on.
