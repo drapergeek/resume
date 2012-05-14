@@ -2,7 +2,7 @@
 
 # Work Experience
 ### Ruby on Rails Developer Apprentice
-#### thoughtbot, inc, Boston, MA (Feb-May 2012)
+#### [thoughtbot, inc] (http://thoughtbot.com), Boston, MA (Feb-May 2012)
 * Shipped code on client projects with an agile, test-driven team
 * Extensive experience with cucumber, rspec, rails, ruby, SASS, jQuery and Backbone JS on OS X
 * Workshops included "Test-Driven Rails", "Design for Developers", "HTML5" and "Intermediate Ruby on Rails"
@@ -51,7 +51,7 @@ Rails application for managing access to Recreational Facilities
 ## Versus
 Rails application for Intramural Sports Program Management
 ### Features
-* Complex Rails application which serves 7500 students
+* Complex Rails application serving 7500 students
 * Tracks participant eligibility to play intramural sports
 * Stores rosters, teams and scores for intramurals games
 * jQuery Mobile and iOS application interface for on-site check-in to games using a barcode reader
