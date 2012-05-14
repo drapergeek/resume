@@ -19,5 +19,11 @@
 * Assist and train teachers and faculty in implementation and usage of technology
 * Support over 2000 users and more than 600 computers
 
+### 2008, Atrix Medical Systems
+### Software Engineer
+* Develop and implement solutions for communications between Medical Systems in VisualBasic.NET
+* Develop and implement a solution for QA Testing using VisualBasic.NET
+* Work with customers to resolve issues with software in VisualBasic.NET language
+
 ## Education
 ### May 2008, Bachelor of Information Science and Technology, Concentration in Web Development
