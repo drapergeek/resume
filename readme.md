@@ -1,6 +1,6 @@
 # Jason Draper
 
-## Work Experience
+# Work Experience
 ### Ruby on Rails Developer Apprentice
 #### thoughtbot, inc, Boston, MA (Feb-May 2012)
 * Shipped code on client projects with an agile, test-driven team
@@ -33,33 +33,27 @@
 * Develop and implement a solution for QA Testing using VisualBasic.NET
 * Work with customers to resolve issues with software in VisualBasic.NET language
 
-## Education
-### Radford University, Radford VA
-### Bachelor of Information Science and Technology
-### Concentration in Web Development (May 2008)
+# Education
+#### Radford University, Radford VA
+#### Bachelor of Information Science and Technology
+#### Concentration in Web Development (May 2008)
 
 # Projects
 ## [Checkin!] (https://github.com/vtrecsports/checkin)
-Checkin! is a system that was designed and built for internal use at Virginia Tech Recreational Sports. 
+Rails application for managing access to Recreational Facilities
 ### Features
-* Ruby on Rails application with a MySQL storage system
-* Allows verification of Fitness Pass Purchases and attendance to classes
-* jQtouch and iOS application interface for on site check in to classes using a linea pro barcode reader.
-* Tracking of patron towel service and locker rentals.
-* Interfaces directly with a php application that tracks Fitness Pass sales
-* Multi user authentication and authorization based on roles
+* Rails application with MySQL which verifies fitness pass purchases and class attendance
+* jQtouch and iOS application interface for on-site check-in to classes using a barcode reader
+* Tracking of towel service and locker rentals
+* Multi-user authentication and authorization based on roles
 
 ## Versus
-Versus is an application that was designed and built for the Intramurals Area at the Virginia Tech Recreational Sports. 
+Rails application for Intramural Sports Program Management
 ### Features
-* Ruby on Rails application with a MySQL storage system
-* Tracks participant eligibility to play intramural sports
-* Tracks rosters, teams and scores for intramurals games.
-* jQueryMoble and iOS application interface for on site check in to games using a linea pro barcode reader.
-* Multi user authentication and authorization based on roles
+* Rails application with MySQL which tracks participant eligibility to play intramural sports
+* Stores rosters, teams and scores for intramurals games
+* jQuery Mobile and iOS application interface for on-site check-in to games using a barcode reader
 
-## Virginia Cooperative Extension (VCE) Office Web Based Information System
-* Ruby on Rails application with a PostgreSQL storage system
-* Hosted on Heroku
-* Allows web based receipting and registration of campers for an annual summer camp
-Please see my [projects page] (https://github.com/drapergeek/resume/blob/master/projects.md) for specific projects I've worked on.
+## Virginia Cooperative Extension (VCE) Office Web-Based Information System
+* Rails application with PostgreSQL hosted on Heroku
+* Allows web-based registration of attendees for an annual summer camp
