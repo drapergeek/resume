@@ -52,7 +52,7 @@ Rails application for managing access to Recreational Facilities
 ### Features
 * Rails application with MySQL which interfaces with a PHP application
 * Verifies fitness pass purchases and class attendance
-* Tracks of towel service and locker rentals
+* Tracking of towel service and locker rentals
 * jQtouch and iOS application interface for on-site check-in to classes using a barcode reader
 * Multi-user authentication and authorization based on roles
 
