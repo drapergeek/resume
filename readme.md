@@ -39,7 +39,7 @@
 #### Concentration in Web Development (May 2008)
 
 # Projects
-## [Checkin!] (https://github.com/vtrecsports/checkin)
+## Checkin!
 Rails application for managing access to Recreational Facilities
 ### Features
 * Rails application with MySQL which interfaces with a PHP application
