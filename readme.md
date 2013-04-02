@@ -39,6 +39,14 @@
 #### Concentration in Web Development (May 2008)
 
 # Projects
+## Ignite
+Rails/iOS Application for registering for an checking into an event.
+### Features
+* Invidiual registration with QR code email confirmation
+* iOS app which allowed quick 'checkin' during the day of the event
+* Admin interface for viewing statistics and breakdowns of registrations and checkins
+* Stats API for displaying statistics during the event on a live dashboard
+
 ## Checkin!
 Rails application for managing access to Recreational Facilities
 ### Features
