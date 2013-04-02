@@ -9,7 +9,7 @@
 * Worked within the community at events such as [Project Night](http://bostonrb.org) and [RailsBridge](http://www.railsbridgeboston.org)
 * Mentored developers through [apprentice.io](http://apprentice.io/)
 
-### Ruby on Rails Developer Apprentice
+### Developer Apprentice
 #### [thoughtbot, inc] (http://thoughtbot.com), Boston, MA (Feb-May 2012)
 * Shipped code on client projects with an agile, test-driven team
 * Extensive experience with cucumber, rspec, rails, ruby, SASS, jQuery and Backbone JS on OS X
