@@ -33,13 +33,6 @@
 * Mentor student employees and assist in furthering their development and learning
 * Provide support to all users including training & assistance
 
-### Computer Technician
-#### 2003-2009, Henry County Public Schools, Collinsville, VA
-* Provide hardware and software support for a variety of applications and hardware configurations
-* Provide network support including wiring, router support and desktop support
-* Train teachers and faculty in the use of technology
-* Support over 2000 users and more than 600 computers
-
 ### Software Engineer
 #### 2008, Atrix Medical Systems, Roanoke, VA
 * Develop and implement solutions for communications between Medical Systems in VisualBasic.NET
