@@ -5,7 +5,8 @@
 #### [thoughtbot, inc] (http://thoughtbot.com), Boston, MA & Raleigh, NC (May 2012 - Current)
 * Help clients build products of varying size. From small startups to Fortune 50
   companies
-* Lead internal teams with clients to help build their development programs
+* Lead client teams to help build their development process
+* Train and mentor client developers on development practices
 * Assisted in making business decisions to help create the best product
   possible
 * Wrote an maintained web software built with Ruby on Rails, Elixir/Phoenix,
