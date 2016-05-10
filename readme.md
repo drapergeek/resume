@@ -1,12 +1,17 @@
 # Jason Draper
 
 # Work Experience
-### Ruby on Rails Developer
-#### [thoughtbot, inc] (http://thoughtbot.com), Boston, MA (May 2012 - Current)
-* Worked on various agile projects with teams of highly skilled developers
+### Developer
+#### [thoughtbot, inc] (http://thoughtbot.com), Boston, MA & Raleigh, NC (May 2012 - Current)
+* Help clients build products of varying size. From small startups to Fortune 50
+  companies
+* Lead internal teams with clients to help build their development programs
+* Assisted in making business decisions to help create the best product
+  possible
+* Wrote an maintained web software built with Ruby on Rails, Elixir/Phoenix,
+  and Ember JS
 * Taught training courses for Ruby on Rails
 * Contributed regularly to open source projects
-* Worked within the community at events such as [Project Night](http://bostonrb.org) and [RailsBridge](http://www.railsbridgeboston.org)
 * Mentored developers through [apprentice.io](http://apprentice.io/)
 
 ### Developer Apprentice
