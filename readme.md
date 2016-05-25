@@ -1,7 +1,7 @@
 # Jason Draper
 
 # Work Experience
-### Developer
+### Development Director
 #### [thoughtbot, inc] (http://thoughtbot.com), Boston, MA & Raleigh, NC (May 2012 - Current)
 * Help clients build products of varying size. From small startups to Fortune 50
   companies
