@@ -2,7 +2,7 @@
 
 # Work Experience
 ### Development Director
-#### [thoughtbot, inc] (http://thoughtbot.com), Boston, MA & Raleigh, NC (May 2012 - Current)
+#### [thoughtbot, inc](http://thoughtbot.com), Boston, MA & Raleigh, NC (May 2012 - Current)
 * Help clients build products of varying size. From small startups to Fortune 50
   companies
 * Lead client teams to help build their development process
@@ -16,7 +16,7 @@
 * Mentored developers through [apprentice.io](http://apprentice.io/)
 
 ### Developer Apprentice
-#### [thoughtbot, inc] (http://thoughtbot.com), Boston, MA (Feb-May 2012)
+#### [thoughtbot, inc](http://thoughtbot.com), Boston, MA (Feb-May 2012)
 * Shipped code on client projects with an agile, test-driven team
 * Extensive experience with cucumber, rspec, rails, ruby, SASS, jQuery and Backbone JS on OS X
 * Workshops included ["Test-Driven Rails"](https://workshops.thoughtbot.com/courses/1-intro-to-test-driven-rails), ["Design for Developers"] (https://workshops.thoughtbot.com/courses/2-design-for-developers) and ["Intermediate Ruby on Rails"] (https://workshops.thoughtbot.com/courses/12-intermediate-ruby-on-rails)
