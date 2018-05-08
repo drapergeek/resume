@@ -34,13 +34,13 @@ In addition to my normal developer consultant duties, also:
 
 ### Information Technology Specialist, Recreational Sports
 #### Virginia Polytechnic Institute and State University (2009-2012)
-* Develop and maintain open source Ruby on Rails applications
-* Develop and maintain PHP applications and integrated with Rails applications
-* Create iOS applications to interface with Ruby on Rails applications
-* Maintain 16 servers including Mac OS X, Linux and Windows
-* Manage student employees working as technicians and web programmers
-* Mentor student employees and assist in furthering their development and learning
-* Provide support to all users including training & assistance
+* Developed and maintained open source Ruby on Rails applications
+* Developed and maintained PHP applications and integrated with Rails applications
+* Created iOS applications to interface with Ruby on Rails applications
+* Maintained 16 servers including Mac OS X, Linux and Windows
+* Managed student employees working as technicians and web programmers
+* Mentored student employees and assist in furthering their development and learning
+* Provided support to all users including training & assistance
 
 ### Software Engineer
 #### 2008, Atrix Medical Systems, Roanoke, VA
