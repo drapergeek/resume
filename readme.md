@@ -13,7 +13,7 @@ In addition to my normal developer consultant duties, also:
 
 ### Developer
 #### [thoughtbot, inc](http://thoughtbot.com), Boston, MA (May 2012 - Sept 2013)
-* Help clients build products of varying size. From small startups to Fortune 50
+* Helped clients build products of varying size. From small startups to Fortune 50
   companies
 * Lead client teams to help build their development process
 * Trained and mentored client developers on development practices
