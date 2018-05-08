@@ -9,6 +9,7 @@ In addition to my normal developer consultant duties, also:
   customer retention
 * Coordinated cross-office scheduling for projects
 * Worked to ensure the financial stability of the office
+* Helped to grow a 2 person office to a 5 person office
 * Spoke at local meetups and events
 
 ### Developer
