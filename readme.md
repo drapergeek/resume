@@ -27,10 +27,9 @@ In addition to my normal developer consultant duties, also:
 #### [thoughtbot, inc](http://thoughtbot.com), Boston, MA (Feb-May 2012)
 * Shipped code on client projects with an agile, test-driven team
 * Extensive experience with RSpec, Rails, Ruby, jQuery and Backbone JS
-* Workshops included ["Test-Driven Rails"](https://workshops.thoughtbot.com/courses/1-intro-to-test-driven-rails), ["Design for Developers"](https://workshops.thoughtbot.com/courses/2-design-for-developers) and ["Intermediate Ruby on Rails"](https://workshops.thoughtbot.com/courses/12-intermediate-ruby-on-rails)
-* Contributed to open source projects including [Factory_Girl](https://github.com/thoughtbot/factory_girl) and [shoulda_matchers](https://github.com/thoughtbot/shoulda-matchers)
+* Took development workshops including _Test-Driven Rails_, _Design for Developers_ and _Intermediate Ruby on Rails_
+* Contributed to open source projects including [FactoryGirl](https://github.com/thoughtbot/factory_girl) and [shoulda_matchers](https://github.com/thoughtbot/shoulda-matchers)
 * Reviewed pull requests, merged pull requests, and verified reported issues on open source projects
-* Assisted in teaching ["Intro to Ruby on Rails"](https://workshops.thoughtbot.com/courses/3-intro-to-ruby-and-rails)
 
 ### Information Technology Specialist, Recreational Sports
 #### Virginia Polytechnic Institute and State University (2009-2012)
