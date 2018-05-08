@@ -18,7 +18,7 @@ In addition to my normal developer consultant duties, also:
 * Assisted in making business decisions to help create the best product
   possible
 * Wrote an maintained web software built with Ruby on Rails, Elixir/Phoenix,
-  and Ember JS
+  and various other Javascript frameworks.
 * Taught training courses for Ruby on Rails
 * Contributed regularly to open source projects
 * Mentored developers through [apprentice.io](http://apprentice.io/)
@@ -26,9 +26,9 @@ In addition to my normal developer consultant duties, also:
 ### Developer Apprentice
 #### [thoughtbot, inc](http://thoughtbot.com), Boston, MA (Feb-May 2012)
 * Shipped code on client projects with an agile, test-driven team
-* Extensive experience with cucumber, rspec, rails, ruby, SASS, jQuery and Backbone JS on OS X
+* Extensive experience with RSpec, Rails, Ruby, jQuery and Backbone JS
 * Workshops included ["Test-Driven Rails"](https://workshops.thoughtbot.com/courses/1-intro-to-test-driven-rails), ["Design for Developers"](https://workshops.thoughtbot.com/courses/2-design-for-developers) and ["Intermediate Ruby on Rails"](https://workshops.thoughtbot.com/courses/12-intermediate-ruby-on-rails)
-* Contributed to open source projects including [factory_girl](https://github.com/thoughtbot/factory_girl) and [shoulda_matchers](https://github.com/thoughtbot/shoulda-matchers)
+* Contributed to open source projects including [Factory_Girl](https://github.com/thoughtbot/factory_girl) and [shoulda_matchers](https://github.com/thoughtbot/shoulda-matchers)
 * Reviewed pull requests, merged pull requests, and verified reported issues on open source projects
 * Assisted in teaching ["Intro to Ruby on Rails"](https://workshops.thoughtbot.com/courses/3-intro-to-ruby-and-rails)
 
