@@ -44,9 +44,9 @@ In addition to my normal developer consultant duties, also:
 
 ### Software Engineer
 #### 2008, Atrix Medical Systems, Roanoke, VA
-* Develop and implement solutions for communications between Medical Systems in VisualBasic.NET
-* Develop and implement a solution for QA Testing using VisualBasic.NET
-* Work with customers to resolve issues with software in VisualBasic.NET language
+* Developed and implemented solutions for communications between Medical Systems in VisualBasic.NET
+* Developed and implemented a solution for QA Testing using VisualBasic.NET
+* Worked with customers to resolve issues with software
 
 # Education
 #### Radford University, Radford VA
