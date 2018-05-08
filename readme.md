@@ -49,7 +49,12 @@ In addition to my normal developer consultant duties, also:
 * Developed and implemented a solution for QA Testing using VisualBasic.NET
 * Worked with customers to resolve issues with software
 
-# Education
+# Community Involvement
+* Started, hosted and spoke regularly at the Triangle EmberJS meetup
+* Helped to start and then helped lead the Railsbridge Triangle chapter
+* Started and host the Raleigh Dev lunch meetup
+
+# Educational
 ## Radford University, Radford VA
 Bachelor of Information Science and Technology
 
