@@ -49,9 +49,10 @@ In addition to my normal developer consultant duties, also:
 * Worked with customers to resolve issues with software
 
 # Education
-#### Radford University, Radford VA
-#### Bachelor of Information Science and Technology
-#### Concentration in Web Development (May 2008)
+## Radford University, Radford VA
+Bachelor of Information Science and Technology
+
+Concentration in Web Development (May 2008)
 
 # Skills & Preferred Platforms
 * Elixir/Phoenix
