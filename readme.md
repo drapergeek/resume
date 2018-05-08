@@ -6,13 +6,14 @@
 * Help clients build products of varying size. From small startups to Fortune 50
   companies
 * Lead client teams to help build their development process
-* Train and mentor client developers on development practices
+* Trained and mentored client developers on development practices
 * Assisted in making business decisions to help create the best product
   possible
 * Wrote an maintained web software built with Ruby on Rails, Elixir/Phoenix,
   and Ember JS
 * Taught training courses for Ruby on Rails
 * Contributed regularly to open source projects
+* Hired, mentored, and lead  developers at thoughtbot
 * Mentored developers through [apprentice.io](http://apprentice.io/)
 
 ### Developer Apprentice
