@@ -47,8 +47,7 @@
 #### Concentration in Web Development (May 2008)
 
 # Skills & Preferred Platforms
-* Ruby on Rails
 * Elixir/Phoenix
-* EmberJS
-* TDD
+* Ruby on Rails
+* Test Driven Development
 
