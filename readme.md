@@ -2,7 +2,15 @@
 
 # Work Experience
 ### Development Director
-#### [thoughtbot, inc](http://thoughtbot.com), Boston, MA & Raleigh, NC (May 2012 - Current)
+#### [thoughtbot, inc](http://thoughtbot.com), Raleigh, NC (Sept 2013 - Current)
+In addition to my normal developer consultant duties, also:
+* Hired, mentored, and lead  developers at thoughtbot
+* Assisted in the sales process including lead generation and networking
+* Worked to ensure the financial stability of the office
+* Spoke at local meetups and events
+
+### Developer
+#### [thoughtbot, inc](http://thoughtbot.com), Boston, MA (May 2012 - Sept 2013)
 * Help clients build products of varying size. From small startups to Fortune 50
   companies
 * Lead client teams to help build their development process
@@ -13,7 +21,6 @@
   and Ember JS
 * Taught training courses for Ruby on Rails
 * Contributed regularly to open source projects
-* Hired, mentored, and lead  developers at thoughtbot
 * Mentored developers through [apprentice.io](http://apprentice.io/)
 
 ### Developer Apprentice
