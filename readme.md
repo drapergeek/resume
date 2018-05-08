@@ -4,7 +4,7 @@
 ### Development Director
 #### [thoughtbot, inc](http://thoughtbot.com), Raleigh, NC (Sept 2013 - Current)
 In addition to my normal developer consultant duties, also:
-* Hired, mentored, and lead  developers at thoughtbot
+* Hired, mentored, and lead developers at thoughtbot
 * Assisted in the sales process including lead generation and networking
 * Worked to ensure the financial stability of the office
 * Spoke at local meetups and events
