@@ -23,12 +23,11 @@ In addition to my normal developer consultant duties, also:
 
 * Helped clients build products of varying size. From small startups to Fortune 50
   companies
+* Worked with Ruby on Rails, Elixir/Phoenix, and a variety of JavaScript frameworks.
 * Lead client teams to help build their development process
 * Trained and mentored client developers on development practices
 * Assisted in making business decisions to help create the best product
   possible
-* Wrote and maintained web software built with Ruby on Rails, Elixir/Phoenix,
-  and various other Javascript frameworks.
 * Taught training courses for Ruby on Rails
 * Contributed regularly to open source projects
 * Mentored developers through their apprenticeships
