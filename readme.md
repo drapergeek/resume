@@ -37,7 +37,7 @@ In addition to my normal developer consultant duties, also:
 
 * Shipped code on client projects with an agile, test-driven team
 * Extensive experience with RSpec, Rails, Ruby, jQuery and Backbone JS
-* Contributed to open source projects including [FactoryGirl](https://github.com/thoughtbot/factory_girl) and [shoulda_matchers](https://github.com/thoughtbot/shoulda-matchers)
+* Contributed to open source projects including [FactoryBot](https://github.com/thoughtbot/factory_bot) and [shoulda_matchers](https://github.com/thoughtbot/shoulda-matchers)
 
 2009-2012
 :   **IT Specialist**; Virginia Polytechnic Institute and State University (Blacksburg, VA)
