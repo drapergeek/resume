@@ -6,7 +6,20 @@ jason@drapergeek.com           http://drapergeek.com
 
 ## Work Experience
 
-2013-Current
+2018-Current
+:   **Senior Software Engineer**; [heroku](https://heroku.com) (Remote)
+
+* Built and maintained a wide variety of applications in a distributed environment
+* Helped ensure good code quality  and test coverage
+* Defined team processes and coordinated team operations
+* Coordinated with other teams to ensure changes that affect multiple systems were
+    handled properly
+* Worked with the team to improve our on-call rotations through better practices
+    as well as improving monitoring
+* Managed incidents and remediation from customer facing incidents
+* Helped to onboard new employees to the team
+
+2013-2018
 :   **Development Director**; [thoughtbot, inc](https://thoughtbot.com) (Raleigh, NC)
 
 In addition to my normal developer consultant duties, also:
