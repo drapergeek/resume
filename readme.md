@@ -6,6 +6,14 @@ jason@drapergeek.com           http://drapergeek.com
 
 ## Work Experience
 
+2020-2021
+:   **Staff Software Engineer**; [heroku](https://ezcater.com) (Remote)
+
+* Helped to maintain and expand our internal libraries for interacting with external services.
+* Helped to improve the development practices for other engineers on our team and across the
+    company.
+* Developed and improved applications in Ruby on Rails and React using GraphQL
+
 2018-2020
 :   **Lead Software Engineer**; [heroku](https://heroku.com) (Remote)
 
@@ -23,7 +31,7 @@ jason@drapergeek.com           http://drapergeek.com
 * Managed incidents and remediation from customer facing incidents
 * Helped to onboard new employees to the team
 
-Previous positions: Senior Software Engineer
+Previous position: Senior Software Engineer
 
 2013-2018
 :   **Development Director**; [thoughtbot, inc](https://thoughtbot.com) (Raleigh, NC)
