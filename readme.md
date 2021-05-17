@@ -6,9 +6,13 @@ jason@drapergeek.com           http://drapergeek.com
 
 ## Work Experience
 
-2018-Current
-:   **Senior Software Engineer**; [heroku](https://heroku.com) (Remote)
+2018-2020
+:   **Lead Software Engineer**; [heroku](https://heroku.com) (Remote)
 
+* As the Team Lead for Web Services Automation, I helped to lead a team of software engineers
+  focused on the stability of our API
+* Met with management, product managers and stakeholders to help build and prioritize timelines for
+    delivering improvements
 * Built and maintained a wide variety of applications in a distributed environment
 * Helped ensure good code quality  and test coverage
 * Defined team processes and coordinated team operations
@@ -18,6 +22,8 @@ jason@drapergeek.com           http://drapergeek.com
     as well as improving monitoring
 * Managed incidents and remediation from customer facing incidents
 * Helped to onboard new employees to the team
+
+Previous positions: Senior Software Engineer
 
 2013-2018
 :   **Development Director**; [thoughtbot, inc](https://thoughtbot.com) (Raleigh, NC)
