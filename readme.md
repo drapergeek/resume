@@ -6,8 +6,7 @@ jason@drapergeek.com           http://drapergeek.com
 
 ## Work Experience
 
-2020-2021
-:   **Staff Software Engineer**; [heroku](https://ezcater.com) (Remote)
+2020-Current:   **Staff Software Engineer**; [ezcater](https://ezcater.com) (Remote)
 
 * Helped to maintain and expand our internal libraries for interacting with external services.
 * Helped to improve the development practices for other engineers on our team and across the
