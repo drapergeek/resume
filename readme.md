@@ -8,10 +8,13 @@ jason@drapergeek.com           http://drapergeek.com
 
 2020-Current:   **Staff Software Engineer**; [ezcater](https://ezcater.com) (Remote)
 
+* Updated Payments system to protect against fraud and non-payment, recovering 45% of lost daily revenue
+* Led rebuilds of critical systems including search page, menu page, and checkout flow, modernizing frontend and backend architecture to improve customer experience and key metrics.
+* Designed, built & maintained a new carting system to allow comparison shopping and separation of concerns.
+* Designed and implemented guest user system enabling anonymous users to retain searches and carts across sessions, with seamless cart transfer upon sign-in to reduce checkout friction.
+* Coached teammates across multiple teams, improving delivery velocity and code quality.
 * Helped to maintain and expand our internal libraries for interacting with external services.
-* Helped to improve the development practices for other engineers on our team and across the
-    company.
-* Developed and improved applications in Ruby on Rails and React using GraphQL
+* Developed and improved applications in Ruby on Rails and React using GraphQL & REST
 
 2018-2020
 :   **Lead Software Engineer**; [heroku](https://heroku.com) (Remote)
